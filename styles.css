@@ -1,0 +1,13 @@
+/* Estilos generales */
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+/* Estilos para el modo oscuro */
+
+body.dark-mode {
+  background-color: #333333;
+  color: #ffffff;
+}
